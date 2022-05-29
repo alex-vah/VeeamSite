@@ -1,0 +1,54 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/4.8-api/System.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=116c59bb_002Dd6cf_002D4304_002Da52a_002Daefdd6e405c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1bc223bc_002D9cac_002D42ed_002D8639_002D15c2577724e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a6a218e_002D9734_002D41b3_002Dbe25_002D366da5d22cdf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cc76df2_002D0770_002D403e_002Dbb1b_002D0c3389055d1b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ad653a6_002Df615_002D4007_002Dadca_002D4053fc119557/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6897d28f_002Db617_002D43da_002Da537_002D8d867cd7674c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7691d6c9_002D14c2_002D423e_002Db5df_002Da7f9e7df8d93/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="JobCount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e282a1f9_002D30a1_002D44c3_002Dbadb_002Dfd1cae582ea9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::69DD8FB5-0415-4C77-8C2E-4C7480E26C05::.NETFramework,Version=v4.8::VeeamSite.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
